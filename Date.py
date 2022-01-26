@@ -1,5 +1,5 @@
 """
-This function get number of day in year and return the date in the format of Shamsi 
+This function get number of day in year and return the date in the format of solar hijri 
 """
 
 def Num_date (n):
